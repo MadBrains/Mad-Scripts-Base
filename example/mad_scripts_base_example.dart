@@ -1,9 +1,7 @@
-// ignore: depend_on_referenced_packages
-import 'package:args/command_runner.dart';
 import 'package:mad_scripts_base/mad_scripts_base.dart';
 
 void main(List<String> arguments) async {
-  CommandRunner<bool>('scripts', 'Various scripts to help generate code in Mad Brains flutter projects.')
+  CommandRunner<bool>('scripts', 'Various scripts to help generate code.')
     ..addCommand(ExampleCommand())
     ..run(arguments);
 }

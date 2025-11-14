@@ -4,7 +4,9 @@ description: >
   and DevOps tools. Includes command base classes, colorful console output, 
   configuration handling, file management, Mustache-based templates,
   and analyzer extensions for code modification.
-
+repository: https://github.com/MadBrains/Mad-Scripts-Base
+issue_tracker: https://github.com/MadBrains/Mad-Scripts-Base/issues
+homepage: https://github.com/MadBrains/Mad-Scripts-Base
 version: 1.0.0
 
 environment:

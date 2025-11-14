@@ -1,4 +1,4 @@
-## 1.0.0-dev — Initial Developer Release
+## 1.0.0 — Initial Release
 
 ### 🚀 Overview
 This is the initial developer release of **mad_scripts_base**, a modular Dart toolkit
